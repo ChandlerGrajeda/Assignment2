@@ -1,7 +1,5 @@
 //Array
 
-let students = ["Cameron", "Jordan", "Renna"]
-
 let student = [
   { name: "Cameron",
     age: 25,
@@ -17,7 +15,7 @@ let student = [
   },
 ]
 
-console.log (students)
+console.log (student)
 console.log (student[0])
 console.log (student[1])
 console.log (student[2])
